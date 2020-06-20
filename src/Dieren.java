@@ -5,6 +5,8 @@ public class Dieren {
         System.out.println("Hello from Gazelle to IT world");
 
         System.out.println("Hello ebikes");
+        
+        //Hello 👋 
     }
 }
 
